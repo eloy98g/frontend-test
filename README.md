@@ -1,12 +1,12 @@
 ## Tasks
-- Add and remove boxes. [done]
-- Select a box, which should visually indicate that is selected [done]
-- Drag the boxes around using interact.js and using React refs. [done]
-- Changing a box's color. [done]
-- Display a counter indicating how many boxes are selected. [done]
+- [x] Add and remove boxes. 
+- [x] Select a box, which should visually indicate that is selected  
+- [x] Drag the boxes around using interact.js and using React refs.  
+- [x] Changing a box's color.  
+- [x] Display a counter indicating how many boxes are selected.  
 - Support for multiple boxes:
-  - selection [done]
-  - dragging [-]
-  - color changing [done]
-- Save the state of the app locally and restore it when it loads. [done]
-- Undo / Redo capabilities [done]
+  - [x] selection  
+  - [ ] dragging
+  - [x] color changing  
+- [x] Save the state of the app locally and restore it when it loads.  
+- [x] Undo / Redo capabilities  
